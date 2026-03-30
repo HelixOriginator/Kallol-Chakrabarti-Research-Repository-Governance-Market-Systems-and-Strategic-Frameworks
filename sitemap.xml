@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Main Page -->
+  <url>
+    <loc>https://helixoriginator.github.io/Kallol-Chakrabarti-Research-Repository-Governance-Market-Systems-and-Strategic-Frameworks/</loc>
+    <lastmod>2026-03-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Paper 1 -->
+  <url>
+    <loc>https://doi.org/10.6084/m9.figshare.31872724</loc>
+    <lastmod>2026-03-27</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Paper 2 -->
+  <url>
+    <loc>https://doi.org/10.6084/m9.figshare.31797508</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Paper 3 -->
+  <url>
+    <loc>https://doi.org/10.6084/m9.figshare.31746667</loc>
+    <lastmod>2026-03-16</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Paper 4 -->
+  <url>
+    <loc>https://doi.org/10.6084/m9.figshare.31743739</loc>
+    <lastmod>2026-03-16</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Paper 5 -->
+  <url>
+    <loc>https://doi.org/10.6084/m9.figshare.31725232</loc>
+    <lastmod>2026-03-14</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Paper 6 -->
+  <url>
+    <loc>https://doi.org/10.6084/m9.figshare.28922408</loc>
+    <lastmod>2025-05-02</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+</urlset>
