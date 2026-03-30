@@ -1,0 +1,10 @@
+# Allow all search engines to crawl the site
+User-agent: *
+Allow: /
+
+# Specifically allow indexing of PDF and PPTX research files
+Allow: /*.pdf
+Allow: /*.pptx
+
+# Link to your sitemap (Ensure the URL matches your repo exactly)
+Sitemap: https://helixoriginator.github.io/Kallol-Chakrabarti-Research-Repository-Governance-Market-Systems-and-Strategic-Frameworks/sitemap.xml
